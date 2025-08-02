@@ -2,10 +2,19 @@ html {
     height: 100%;
     width: 100%;
 }
+h1{
+    border: 2px solid black;
+    padding: 10%;
+    background-color: mediumpurple;
+    color:aliceblue;
+    text-align: center;
+    
+}
 h1,
 h2 {
     font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana,
         sans-serif;
+    text-align: center;
 }
 
 p {
